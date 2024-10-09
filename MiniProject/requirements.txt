@@ -1,0 +1,5 @@
+requests
+jupyter
+ipykernel
+pandas
+seaborn
